@@ -32,7 +32,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class CreateContactsAndVerify extends BaseClass{
 @Test
 	public void CreateContactTest() throws Throwable {
-		// TODO Auto-generated method stub
+		
 		//WebDriver driver=null;
 		//WebDriverManager.chromedriver().setup();
 		//WebDriver driver = new ChromeDriver();
