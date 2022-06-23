@@ -40,7 +40,7 @@ public class CreateContactsAndVerify extends BaseClass{
 		//driver.manage().timeouts().implicitlyWait(0, TimeUnit.SECONDS);
 		//WebDriverWait wait = new WebDriverWait(driver, 10);
 		
-		//read common data
+		
 //	    JavaUtility jLeb = new JavaUtility();
 //	    ExcelUtility eLib = new ExcelUtility();
 //	    FileUtality flib = new FileUtality();
