@@ -10,6 +10,8 @@ import com.mysql.jdbc.Driver;
 public class ToInsertDataToTheDatabase {
 
 	public static void main(String[] args) throws SQLException {
+		//hi
+		//hello
 		// TODO Auto-generated method stub
 		Driver driverRef = new Driver();
 		DriverManager.registerDriver(driverRef);
