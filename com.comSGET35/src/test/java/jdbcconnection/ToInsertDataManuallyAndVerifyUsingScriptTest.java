@@ -19,7 +19,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 public class ToInsertDataManuallyAndVerifyUsingScriptTest {
 
 	public static void main(String[] args) throws SQLException, Throwable {
-		// TODO Auto-gener
+		// TODO Auto-
 		//initiating the browser specific class
 		WebDriverManager.chromedriver().setup();
 		WebDriver driver = new ChromeDriver();
